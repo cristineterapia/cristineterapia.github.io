@@ -3157,7 +3157,7 @@ body {
 }
 .cid-rugh8k4yRa {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rugh8k4yRa .form-text {
@@ -3255,4 +3255,5 @@ body {
 }
 .cid-rugh8k4yRa .mbr-links-column {
   color: #94813f;
+  text-align: left;
 }
