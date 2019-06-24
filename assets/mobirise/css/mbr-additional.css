@@ -1845,37 +1845,6 @@ body {
 .cid-rufWkjmPCW textarea.form-control {
   min-height: 188px;
 }
-.cid-rugENYYSpg {
-  padding-top: 75px;
-  padding-bottom: 105px;
-  background-color: #ffffff;
-}
-.cid-rugENYYSpg .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-rugENYYSpg .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rugENYYSpg .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rugENYYSpg .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rugENYYSpg .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
 .cid-rugIN5q6RX {
   padding-top: 15px;
   padding-bottom: 0px;
