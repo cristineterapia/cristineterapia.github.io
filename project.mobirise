@@ -2184,14 +2184,14 @@
               "background-image": "url(@bg-value)"
             },
             "H2": {
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             ".mbr-section-subtitle": {
               "color": "#232323",
               "text-align": "left"
             },
             ".mbr-text": {
-              "color": "#ffffff",
+              "color": "#efefef",
               "text-align": "center"
             }
           },
